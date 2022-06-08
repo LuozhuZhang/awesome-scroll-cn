@@ -30,3 +30,4 @@
 
 * [Scroll overview](https://scroll.io/blog/Scroll-Overview)
 * [zkEVM by yezhang](https://hackmd.io/@yezhang/S1_KMMbGt)
+* [zkEVM中文版 by EthereumCN](https://mirror.xyz/ecn.eth/uFyJGC7OCzzoMAVeGtlxDox4mFzJBh7uiYWVBvgsAgE)
