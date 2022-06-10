@@ -30,4 +30,6 @@
 
 * [zkEVM by yezhang](https://hackmd.io/@yezhang/S1_KMMbGt)
 * [zkEVM中文版 by EthereumCN](https://mirror.xyz/ecn.eth/uFyJGC7OCzzoMAVeGtlxDox4mFzJBh7uiYWVBvgsAgE)
-* [zkEVM Book by Haoyu](https://zkevmbook.github.io/)
+
+# 书籍
+* [精通 zkEVM](https://zkevmbook.github.io/)
